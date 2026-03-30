@@ -1,4 +1,4 @@
-# PRI — Prompt Intelligence Platform
+# Context-Aware Placement Risk Early Warning System
 ### Web Development Edition
 
 A platform that measures how effectively developers can control AI through prompts.
