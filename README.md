@@ -1,7 +1,7 @@
 # Context-Aware Placement Risk Early Warning System
 ### Web Development Edition
 
-A platform that measures how effectively developers can control AI through prompts.
+A system that evaluates AI prompt skills and provides career guidance by analyzing student readiness and generating personalized roadmaps.
 
 ---
 
